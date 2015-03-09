@@ -5,7 +5,7 @@ from sklearn import metrics
 from sklearn.datasets.samples_generator import make_blobs
 from sklearn.preprocessing import StandardScaler
 
-
+print "aqui"
 ##############################################################################
 # Generate sample data
 centers = [[1, 1], [-1, -1], [1, -1]]
